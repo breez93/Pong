@@ -8,3 +8,5 @@ O próximo jogo que estou a criar vai ser damas multiplayer e snake.
 basicamente o player 1 usa W e S e o player 2 usa Up e Down keys
 
 crédito ao #CODECAMP.org por me facilitar códigos para manipular conhecimento e pelos os excelente tutoriais. obrigado
+
+basicamente a única diferença é que a bola vai para o lado contrário depois de fazer um score.. mas ainda não tenho scores.. xD
